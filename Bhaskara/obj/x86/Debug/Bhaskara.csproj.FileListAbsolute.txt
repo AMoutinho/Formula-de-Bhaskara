@@ -1,0 +1,11 @@
+D:\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+D:\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+D:\Bhaskara\Bhaskara\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.Form1.resources
+D:\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.Properties.Resources.resources
+D:\Bhaskara\Bhaskara\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Bhaskara\Bhaskara\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.exe
+D:\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.pdb
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\Bhaskara.exe
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\Bhaskara.pdb

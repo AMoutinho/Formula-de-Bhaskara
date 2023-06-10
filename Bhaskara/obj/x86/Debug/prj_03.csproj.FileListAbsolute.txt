@@ -1,0 +1,22 @@
+D:\DSO I\Bhaskara - Cópia\Bhaskara\bin\Debug\Bhaskara.exe
+D:\DSO I\Bhaskara - Cópia\Bhaskara\bin\Debug\Bhaskara.pdb
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\Bhaskara.prj_03.resources
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\Bhaskara.Properties.Resources.resources
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\Bhaskara.exe
+D:\DSO I\Bhaskara - Cópia\Bhaskara\obj\x86\Debug\Bhaskara.pdb
+F:\DSO I\Exercícios\03\Bhaskara\obj\x86\Debug\Bhaskara.exe
+F:\DSO I\Exercícios\03\Bhaskara\obj\x86\Debug\Bhaskara.pdb
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\prj_03.csproj.AssemblyReference.cache
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\prj_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.prj_03.resources
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.Properties.Resources.resources
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\prj_03.csproj.GenerateResource.cache
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\prj_03.csproj.CoreCompileInputs.cache
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.exe
+C:\Users\André Moutinho\Desktop\Fórmula de Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.pdb
