@@ -1,4 +1,4 @@
-<p align=center><img align="center" src="https://i.imgur.com/oscZqUy.png" height="55" width="60"/> Fórmula de Bhaskara <img align="center" src="https://i.imgur.com/oscZqUy.png" height="55" width="60"/></p>
+# <p align="center" /> Fórmula de Bhaskara </p>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
