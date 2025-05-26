@@ -22,11 +22,11 @@
 <!-- LOGOS C# | VISUAL STUDIO -->   
 <img align="center" src="https://logodix.com/logo/1803750.png" width="300"/>
   
-<h2 id="screenshots">Screenshots 📸</h2>
+ <!--<h2 id="screenshots">Screenshots 📸</h2>
 
-  <!--<b><i>EM BREVE...</i></b>-->
+ <b><i>EM BREVE...</i></b>
 
-<img align="center" src="https://i.imgur.com/n7MDn97.png" width="300"/> 
+<img align="center" src="https://i.imgur.com/n7MDn97.png" width="300"/> -->
 
 <!-- <h2 id="demoprojeto">Instalação <img align="center" src="https://i.imgur.com/EWZi3bs.png" width="35"/></h2>
 
